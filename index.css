@@ -140,6 +140,7 @@
     font-size: medium;
     margin: 1em 0;
     width: 100%;
+    cursor: pointer;
 }
 .pricing_btn:hover{
     background-color:goldenrod;
